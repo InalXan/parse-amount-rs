@@ -17,8 +17,9 @@ cargo build
 cargo run
 ```
 # Testing Project
-## Register Function
-<img src="./guide/image.png">
 
 ## Input Data
 <img src="./guide/image-1.png">
+
+## Output
+<img src="./guide/image.png">
