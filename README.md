@@ -6,7 +6,6 @@
 
 # 💻 Use Technology:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![actix-web](https://styles.redditmedia.com/t5_jvudr/styles/communityIcon_ma7ohj74nc111.png)
 
 # Project Setup
 ## Build Project
